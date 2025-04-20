@@ -60,8 +60,8 @@ export default {
         }
       },
       boxShadow: {
-        'neon': '0 0 20px rgba(139, 92, 246, 0.3)',
-        'glow': '0 0 20px rgba(255, 255, 255, 0.1)',
+        'neon': '0 0 30px rgba(139, 92, 246, 0.4)',
+        'glow': '0 0 30px rgba(255, 255, 255, 0.15)',
         'depth': '0 8px 30px rgba(0, 0, 0, 0.5)',
         'glass': '0 4px 24px -1px rgba(0, 0, 0, 0.2)',
         'inner-glow': 'inset 0 2px 10px rgba(255, 255, 255, 0.05)',
@@ -106,7 +106,7 @@ export default {
       },
       backgroundImage: {
         'dark-gradient': 'linear-gradient(to bottom right, rgba(13, 13, 13, 0.8), rgba(0, 0, 0, 0.9))',
-        'glow-gradient': 'radial-gradient(circle at center, rgba(139, 92, 246, 0.15) 0%, transparent 70%)',
+        'glow-gradient': 'radial-gradient(circle at center, rgba(139, 92, 246, 0.25) 0%, transparent 70%)',
         'hero-pattern': "url('/public/lovable-uploads/d3ab058d-3cfa-457b-88b9-f8e61a18d648.png')",
       },
     }
